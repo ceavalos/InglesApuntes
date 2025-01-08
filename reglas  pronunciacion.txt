@@ -20,3 +20,23 @@ se escribe de normal y foneticamente como una "i"
 la "i corta" se escribe como una "i" y suena como "e"
 la "i larga" que suena como una i se suele escribir con "e"
 
+************************
+FORMACION DE PASADO
+1) Se pronuncia /t/
+   Si el verbo base termina con un sonido sordo(sin vibracion de cuerdas vocales), como P, K, F, S, SH, , CH TH 
+     (sorda)
+       ejemplo --> help  helped, work worked, laugh  laughted
+2) Se pronuncia /d/
+   Si el verbo base termina con un sonido sonoro (con vibracion de cuerdas vocales), como B,G,V,Z,L,M,N,R o vocales.
+   ejmp. --> pla  playedy, call  called, love loved
+     
+3) Se pronuncia /id/ 
+   si el verbo base termina con los sonidos /t/  /d/
+   ejmp.  want wanted , decide decided
+
+   resumen practico
+    /t/ despues de sonidos sordos
+    /d/ despues de sonidos sonoros
+    /id/ despues de /t/ /d/
+
+    

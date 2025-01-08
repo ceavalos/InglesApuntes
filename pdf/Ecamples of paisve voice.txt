@@ -1,0 +1,58 @@
+
+structure for pasive voice
+[Subject] + [Form of "to be"] + [Past Participle] (+ [by + Agent, optional])
+
+
+Passive Voice Across Tenses:
+Tense	            Active Voice	                    Passive Voice
+Present Simple	    The dog finds the ball.	            The ball is found by the dog.
+Past Simple	        The dog found the ball.	            The ball was found by the dog.
+Future Simple	    The dog will find the ball.	        The ball will be found by the dog.
+Present Continuous	The dog is finding the ball.	    The ball is being found by the dog.
+Past Continuous	    The dog was finding the ball.	    The ball was being found by the dog.
+Present Perfect	    The dog has found the ball.	        The ball has been found by the dog.
+Past Perfect	    The dog had found the ball.	        The ball had been found by the dog.
+Future Perfect	    The dog will have found the ball.	The ball will have been found by the dog.
+Modals	            The dog can find the ball.	        The ball can be found by the dog.
+
+
+Passive Voice Across Tenses:
+Tense	            Active Voice	                    Passive Voice
+Present Simple	    The teacher grades the exams.           The exams are graded by the teacher.
+Past Simple	        the techaer graded the exams.           The exams were graded by the teacher.
+Future Simple	    The teahcer will grade the exams        The exams will be graded by the teacher.
+Present Continuous	the teacher is grading the exams        The exams are being graded by the teacher.
+Past Continuous	    the teacher was grading the exams.      The exams were being graded by the teacher.
+Present Perfect	    the teacher has graded the exams	    The exams have been graded by the teahcer
+Past Perfect	    the teacher had graded the exams        The exams had been graded by the teacher.
+Future Perfect	    the teacher will have graded the exams	the exams will have been graded by the teacher.
+Modals	            The dog can find the ball.	            The ball can be found by the dog.
+
+
+
+present
+the dog find the ball
+the ball is finded by the dog
+
+
+future
+The ball will be found by the ball
+the dog will find the ball
+
+
+present continuos
+the dog is finding the ball
+the ball is being founded by the dog
+
+
+present perfect
+the dog has found the ball
+the ball has been found by the dog
+
+
+present perfect continuos
+the dog has been finding the ball
+[Subject] has/have been being [past participle] by [agent].
+the ball has been being found by the dog
+
+
